@@ -25,7 +25,7 @@ print(myCar)
 myprecar.update({"year": 2021}) #change value
 print(myprecar)
 
-myprecar["transmission"] = "automatic" #add new item
+myprecar["price"] = 10000 #add new item
 print(myprecar)
 
 myprecar.pop("color") #remove item
