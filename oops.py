@@ -166,4 +166,4 @@ class BankAccount:
         return self.__balance
     
     def _get_account_number(self):  #protected method
-        return self.__account_number  
+        return self.__account_number
